@@ -5,7 +5,7 @@
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/vijayagiriharika)
 <br/>
 ## Hi there 👋
-### I’m @vijayagiriharika pursuing my btech in the streem of computer science engineering at SVS Group of Institutions, Hanamkonda. 
+### I’m @vijayagiriharika had completed my B-Tech in the streem of computer science engineering at SVS Group of Institutions, Hanamkonda. 
 looking for entry-level Internships, JOBS.    
 
 ***My Skills*** :  
