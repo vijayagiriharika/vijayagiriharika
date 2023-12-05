@@ -10,7 +10,7 @@ looking for entry-level Internships, JOBS.
 
 ***My Skills*** :  
      ***Technical*** :  
-       ***Languages*** : C, C++, Java, **PYTHON**(Expert level), HTML/CSS/JS.  
+       ***Languages*** : C, C++, Java, **PYTHON**(Expert level), HTML/CSS/JS, WordPress Developer.  
        ***Other includes*** : Ms-word, Ms-excel, Ms-office, MS-powerpoint, Angular.  
      ***Soft Skills*** : Good Communication, Good interaction with people, Leadership quality, learning new things, Fast learner.  
      ***Languages*** : English  
