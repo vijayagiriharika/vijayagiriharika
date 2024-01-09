@@ -16,7 +16,7 @@ looking for entry-level Internships, JOBS.
      ***Languages*** : English  
     
 - 👀 I’m interested in **Python**, **AI**, **ML**, **DL**, **Web development**. 
-- 🌱 I’m currently learning **ML** program from **@DEVINCEPT**, I also got **certified** as **python** and **web development** from **@UDEMY**
+- 🌱 I got **certified** as **python** and **web development** from **@UDEMY**
 - 💞️ I’m looking to collaborate on **AI**, **ML** Or **Web development**. 
 - 📫 How to reach me - directly contact through [***Email***](mailto:vijayagiriharika56828@gmail.com)
 
